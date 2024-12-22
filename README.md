@@ -64,7 +64,7 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
   * [Insight 3]:
     Quantifying the Impact: The analysis quantified the impact of product pricing on sales, demonstrating a strong correlation between lower prices and higher demand for mid-range models. This provides valuable data for pricing strategies.
     
-## Final Conclusion
+# Final Conclusion
 # Project Overview:
 This MySQL and PowerBI analysis explored mobile product sales and customer behavior, providing valuable insights for businesses.
 # Key Features:
