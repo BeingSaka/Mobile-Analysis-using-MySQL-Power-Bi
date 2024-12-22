@@ -61,3 +61,6 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
     Unveiling the Unexpected: Contrary to popular belief, customer preferences for high-performance models are higher among younger demographics than expected. This insight challenges conventional wisdom and provides a new perspective on mobile consumer behavior.
   * [Insight 2]:
     Identifying a Key Driver: Analysis revealed that mobile battery life is a significant driver of customer satisfaction. This insight emphasizes the crucial role of battery performance in enhancing user experience.
+  * [Insight 3]:
+    Quantifying the Impact: The analysis quantified the impact of product pricing on sales, demonstrating a strong correlation between lower prices and higher demand for mid-range models. This provides valuable data for pricing strategies.
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------
