@@ -47,3 +47,11 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
 # Key Features:
   * Sales Analysis:
      * Visualize mobile sales trends over time.
+  * Product Insights:
+     * Evaluate product features (e.g., RAM, Battery Capacity) and their impact on sales.
+     * Compare various models and brands for market performance.
+  * Customer Segmentation:
+     * Segment customers based on demographics, purchasing behavior, and product preferences.
+     * Tailor marketing and product offerings to specific customer segments.
+  * Performance Metrics:
+     * Assess customer satisfaction and product performance metrics through dashboards and reports.
