@@ -10,5 +10,20 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
     
 # To Use:
 <a href ="https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/Mobile%20Analysis.csv" > Mobile Analysis.csv </a>
+<a href ="https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/MYSQL%20ProjectSyntax.docx" > MYSQL Project Questions </a>
 
+# Question KPI's:
+•	Q1. Check Mobile features and Price List.
+•	Q2.  Find out the Price of the 5 most expensive phones.
+•	Q3. Find out the Price of the 5 cheapest phones.
+•	Q4. List of top 5 Samsung phones with price and all features.
+•	Q5. Must have Android phone list then top 5 High Price Android phones. 
+•	Q6. Must have Android phone list then top 5 lower price Android phones.
+•	Q7. Top 5 IOS high price phone .
+•	Q8. Top 5 IOS lower price phone .
+•	Q9. Write query  which phone support 5g and also top 5 phone with 5g support
+•	Q10. Total Price of all mobiles is to be found with brand name 
+
+## Dashboard
+https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/MobileAnalysiShow.png
 
