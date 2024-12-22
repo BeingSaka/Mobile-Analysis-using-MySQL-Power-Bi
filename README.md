@@ -44,5 +44,6 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
   * Thoroughly test the dashboard for functionality, accuracy, and user experience.
   * Iterate and refine the dashboard based on feedback and new insights.
 
-
-
+# Key Features:
+  * Sales Analysis:
+     * Visualize mobile sales trends over time.
