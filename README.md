@@ -9,8 +9,8 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
   * Interactive Dashboards: Utilize PowerBI to visualize data through dynamic charts, graphs, and maps.
     
 # To Use:
-<a href ="https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/Mobile%20Analysis.csv" > Mobile Analysis.csv </a>
-<a href ="https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/MYSQL%20ProjectSyntax.docx" > MYSQL Project Questions </a>
+* <a href ="https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/Mobile%20Analysis.csv" > Mobile Analysis.csv </a>
+* <a href ="https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/MYSQL%20ProjectSyntax.docx" > MYSQL Project Questions </a>
 
 # Question KPI's:
 •	Q1. Check Mobile features and Price List.
