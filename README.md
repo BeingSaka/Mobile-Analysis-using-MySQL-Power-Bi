@@ -25,5 +25,24 @@ This project focuses on analyzing mobile datasets using MySQL for data storage a
 •	Q10. Total Price of all mobiles is to be found with brand name 
 
 ## Dashboard
-https://github.com/BeingSaka/Mobile-Analysis-using-MySQL-Power-Bi/blob/main/MobileAnalysiShow.png
+![MobileAnalysiShow](https://github.com/user-attachments/assets/77b24da9-fa96-47fe-99f5-8efbbdb59033)
+
+# Process:
+•	Data Collection:
+o	Gather mobile product and sales data from various sources (e.g., CSV files, APIs).
+o	Ensure data quality and handle missing values effectively.
+•	Data Cleaning and Transformation:
+o	Clean and preprocess data to remove inconsistencies and errors.
+o	Transform data into a suitable format for analysis (e.g., aggregation, normalization).
+•	Data Analysis:
+o	Conduct exploratory data analysis to identify key trends and patterns.
+o	Perform statistical analysis and machine learning techniques for deeper insights.
+•	Dashboard Development:
+o	Design and develop an interactive Power BI dashboard to visualize key metrics and insights.
+o	Utilize appropriate visualizations (e.g., charts, graphs, maps) to effectively communicate findings.
+•	Testing and Refinement:
+o	Thoroughly test the dashboard for functionality, accuracy, and user experience.
+o	Iterate and refine the dashboard based on feedback and new insights.
+
+
 
