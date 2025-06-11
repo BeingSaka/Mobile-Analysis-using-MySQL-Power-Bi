@@ -1,5 +1,5 @@
-# Mobile Analysis using MySQL & PowerBI
-This project focuses on analyzing mobile datasets using MySQL for data storage and PowerBI for visualizations. The aim is to gain insights into various aspects of mobile products, helping businesses make data-driven decisions. The interactive visualizations explore key metrics such as sales trends, product features, and customer preferences.
+# Mobile Analysis using MySQL & PowerBI 
+This project focuses on analyzing mobile datasets using MySQL for Data storage and PowerBI for visualizations. The aim is to gain insights into various aspects of mobile products, helping businesses make data-driven decisions. The interactive visualizations explore key metrics such as sales trends, product features, and customer preferences.
 
 # Key Features:
   * Data Insights: Analyze mobile product sales, specifications, and performance metrics.
